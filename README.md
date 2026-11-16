@@ -12,7 +12,7 @@
 
 A software engineer who loves to build things, make things efficient and good coffee. I build things and love teaching people about those.
 
-🔭 &nbsp;I'm currently working on **Customer-facing AI chatbot for a financial company**  
+🔭 &nbsp;I'm currently working as a **Platform Engineer**, building and maintaining a data platform for an industrial engineering and fluid power company, with responsibilities across **data engineering, data governance and DataOps**.  
 🌱 &nbsp;I'm currently learning **GraphDB**  
 ⚡ &nbsp;Fun fact: **have been praying to become a code warg**
 
