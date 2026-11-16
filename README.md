@@ -16,9 +16,11 @@ A software engineer who loves to build things, make things efficient and good co
 🌱 &nbsp;I'm currently learning **GraphDB**  
 ⚡ &nbsp;Fun fact: **have been praying to become a code warg**
 
-### Open source
+### 🏆 Open Source Contributions
 
-My first open-source contribution started with an expired OIDC token that broke a deployment. I worked on a fix for [Snowflake CLI](https://github.com/snowflakedb/snowflake-cli), and it's now [part of `main`](https://github.com/snowflakedb/snowflake-cli/commit/75dad98963bf31b70ee46ff859a692839b6988e7). Glad to have contributed to a tool I use, and grateful to the maintainers for their review.
+| Project | Contribution |
+| --- | --- |
+| [Snowflake CLI](https://github.com/snowflakedb/snowflake-cli) | [Fixed expired OIDC token handling](https://github.com/snowflakedb/snowflake-cli/commit/75dad98963bf31b70ee46ff859a692839b6988e7) |
 
 ### 🛠️ Tech Stack
 
