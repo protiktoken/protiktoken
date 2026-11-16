@@ -18,7 +18,7 @@ A software engineer who loves to build things, make things efficient and good co
 
 ### 🧭 How I Build
 
-I keep Larry Tesler's **Law of Conservation of Complexity** in mind: some complexity is unavoidable; the design choice is who has to deal with it.
+I keep Larry Tesler's **Law of Conservation of Complexity** in mind: some complexity is unavoidable; the design choice is who has to deal with it — **the user, the developer, or the system**.
 
 When I build a system, I try to put that complexity where it can be managed well, so the people using it have less to figure out.
 
