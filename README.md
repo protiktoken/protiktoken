@@ -16,6 +16,12 @@ A software engineer who loves to build things, make things efficient and good co
 🌱 &nbsp;I'm currently learning **GraphDB**  
 ⚡ &nbsp;Fun fact: **have been praying to become a code warg**
 
+### 🧭 How I Build
+
+I keep Larry Tesler's **Law of Conservation of Complexity** in mind: some complexity is unavoidable; the design choice is who has to deal with it.
+
+When I build a system, I try to put that complexity where it can be managed well, so the people using it have less to figure out.
+
 ### 🏆 Open Source Contributions
 
 | Project | Contribution |
